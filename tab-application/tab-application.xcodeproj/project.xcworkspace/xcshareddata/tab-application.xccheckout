@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>20F65C44-2C30-454E-AF66-D4EF08324EBC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tab-application</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3727C516A6AC073816117589E62608E6D5AEAC9E</key>
+		<string>https://github.com/tianling/iPhone-Apps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tab-application/tab-application.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3727C516A6AC073816117589E62608E6D5AEAC9E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tianling/iPhone-Apps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3727C516A6AC073816117589E62608E6D5AEAC9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3727C516A6AC073816117589E62608E6D5AEAC9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhone-Apps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
